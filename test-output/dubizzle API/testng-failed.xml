@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [dubizzle API]">
+  <test name="Dubizzle API Test(failed)">
+    <classes>
+      <class name="test.com.dubizzle.aut.testcase.DubizzleRepoAPITest">
+        <methods>
+          <include name="repoAPIResponseTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.com.dubizzle.aut.testcase.DubizzleRepoAPITest -->
+      <class name="test.com.dubizzle.aut.testcase.DubizzleUserAPITest">
+        <methods>
+          <include name="setUp"/>
+          <include name="userAPIResponseTest"/>
+        </methods>
+      </class> <!-- test.com.dubizzle.aut.testcase.DubizzleUserAPITest -->
+    </classes>
+  </test> <!-- Dubizzle API Test(failed) -->
+</suite> <!-- Failed suite [dubizzle API] -->

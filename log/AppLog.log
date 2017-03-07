@@ -1,0 +1,906 @@
+920  [main] INFO  05 Mar 2017 21:30:57 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1148 [main] INFO  05 Mar 2017 21:30:57 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1148 [main] INFO  05 Mar 2017 21:30:57 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1174 [main] INFO  05 Mar 2017 21:30:57 DubizzleRepoAPITest  - Total No. of Rows: 6
+12550 [main] INFO  05 Mar 2017 21:31:09 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+43906 [main] INFO  05 Mar 2017 21:31:40 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+923  [main] INFO  05 Mar 2017 21:33:04 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1187 [main] INFO  05 Mar 2017 21:33:04 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1187 [main] INFO  05 Mar 2017 21:33:04 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1212 [main] INFO  05 Mar 2017 21:33:04 DubizzleRepoAPITest  - Total No. of Rows: 6
+57037 [main] INFO  05 Mar 2017 21:34:00 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+62833 [main] INFO  05 Mar 2017 21:34:06 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+916  [main] INFO  05 Mar 2017 21:35:29 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1143 [main] INFO  05 Mar 2017 21:35:30 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1144 [main] INFO  05 Mar 2017 21:35:30 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1167 [main] INFO  05 Mar 2017 21:35:30 DubizzleRepoAPITest  - Total No. of Rows: 6
+1175 [main] INFO  05 Mar 2017 21:35:30 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+6988 [main] INFO  05 Mar 2017 21:35:35 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+135817 [main] INFO  05 Mar 2017 21:37:44 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos/users/dubizzle/repos1
+153797 [main] INFO  05 Mar 2017 21:38:02 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+175411 [main] INFO  05 Mar 2017 21:38:24 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos/users/dubizzle/repos1/users/dubizzle/repos
+1424 [main] INFO  05 Mar 2017 21:40:04 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1790 [main] INFO  05 Mar 2017 21:40:04 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1791 [main] INFO  05 Mar 2017 21:40:04 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1809 [main] INFO  05 Mar 2017 21:40:04 DubizzleRepoAPITest  - Total No. of Rows: 6
+1836 [main] INFO  05 Mar 2017 21:40:04 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+7083 [main] INFO  05 Mar 2017 21:40:09 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+1039312 [main] INFO  05 Mar 2017 21:57:22 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos/users/dubizzle/repos1
+1048077 [main] INFO  05 Mar 2017 21:57:30 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+1058957 [main] INFO  05 Mar 2017 21:57:41 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos/users/dubizzle/repos1/users/dubizzle/repos
+883  [main] INFO  05 Mar 2017 22:17:05 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1251 [main] INFO  05 Mar 2017 22:17:06 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1251 [main] INFO  05 Mar 2017 22:17:06 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1268 [main] INFO  05 Mar 2017 22:17:06 DubizzleRepoAPITest  - Total No. of Rows: 6
+7543 [main] INFO  05 Mar 2017 22:17:12 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+12257 [main] INFO  05 Mar 2017 22:17:17 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+1567 [main] INFO  05 Mar 2017 22:30:37 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1975 [main] INFO  05 Mar 2017 22:30:38 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1975 [main] INFO  05 Mar 2017 22:30:38 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1991 [main] INFO  05 Mar 2017 22:30:38 DubizzleRepoAPITest  - Total No. of Rows: 6
+8301 [main] INFO  05 Mar 2017 22:30:44 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+14610 [main] INFO  05 Mar 2017 22:30:50 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+60390 [main] INFO  05 Mar 2017 22:31:36 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+68441 [main] INFO  05 Mar 2017 22:31:44 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+80379 [main] INFO  05 Mar 2017 22:31:56 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+89812 [main] INFO  05 Mar 2017 22:32:06 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+939  [main] INFO  05 Mar 2017 22:34:09 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1226 [main] INFO  05 Mar 2017 22:34:10 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1226 [main] INFO  05 Mar 2017 22:34:10 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1250 [main] INFO  05 Mar 2017 22:34:10 DubizzleRepoAPITest  - Total No. of Rows: 6
+1261 [main] INFO  05 Mar 2017 22:34:10 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+5814 [main] INFO  05 Mar 2017 22:34:14 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+1664 [main] INFO  05 Mar 2017 22:56:35 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+2081 [main] INFO  05 Mar 2017 22:56:36 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+2081 [main] INFO  05 Mar 2017 22:56:36 DubizzleRepoAPITest  - @BeforeTest: Setup done
+2100 [main] INFO  05 Mar 2017 22:56:36 DubizzleRepoAPITest  - Total No. of Rows: 6
+2129 [main] INFO  05 Mar 2017 22:56:36 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+6835 [main] INFO  05 Mar 2017 22:56:41 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+933  [main] INFO  06 Mar 2017 00:00:15 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1340 [main] INFO  06 Mar 2017 00:00:16 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1340 [main] INFO  06 Mar 2017 00:00:16 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1353 [main] INFO  06 Mar 2017 00:00:16 DubizzleRepoAPITest  - Total No. of Rows: 6
+1372 [main] INFO  06 Mar 2017 00:00:16 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+6282 [main] INFO  06 Mar 2017 00:00:21 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+1419 [main] INFO  06 Mar 2017 00:23:07 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1912 [main] INFO  06 Mar 2017 00:23:08 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1912 [main] INFO  06 Mar 2017 00:23:08 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1932 [main] INFO  06 Mar 2017 00:23:08 DubizzleRepoAPITest  - Total No. of Rows: 6
+1946 [main] INFO  06 Mar 2017 00:23:08 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+7358 [main] INFO  06 Mar 2017 00:23:13 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+7585 [main] INFO  06 Mar 2017 00:23:13 DubizzleRepoAPITest  - [PASSED] 'name' value matched for 'id' 6160393
+7591 [main] INFO  06 Mar 2017 00:23:13 DubizzleRepoAPITest  - [PASSED] 'language' value matched for 'id' 6160393
+7592 [main] INFO  06 Mar 2017 00:23:13 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+11785 [main] INFO  06 Mar 2017 00:23:17 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+11789 [main] INFO  06 Mar 2017 00:23:17 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+13730 [main] INFO  06 Mar 2017 00:23:19 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+14591 [main] INFO  06 Mar 2017 00:23:20 DubizzleRepoAPITest  - [PASSED] 'name' value matched for 'id' 11471217
+14595 [main] INFO  06 Mar 2017 00:23:20 DubizzleRepoAPITest  - [PASSED] 'language' value matched for 'id' 11471217
+14597 [main] INFO  06 Mar 2017 00:23:20 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+17593 [main] INFO  06 Mar 2017 00:23:23 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+17946 [main] INFO  06 Mar 2017 00:23:24 DubizzleRepoAPITest  - [PASSED] 'name' value matched for 'id' 6213292
+17949 [main] INFO  06 Mar 2017 00:23:24 DubizzleRepoAPITest  - [PASSED] 'language' value matched for 'id' 6213292
+17952 [main] INFO  06 Mar 2017 00:23:24 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+21424 [main] INFO  06 Mar 2017 00:23:27 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+22836 [main] INFO  06 Mar 2017 00:23:28 DubizzleRepoAPITest  - [PASSED] 'name' value matched for 'id' 77030017
+22838 [main] INFO  06 Mar 2017 00:23:28 DubizzleRepoAPITest  - [PASSED] 'language' value matched for 'id' 77030017
+1431 [main] INFO  06 Mar 2017 00:26:28 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1763 [main] INFO  06 Mar 2017 00:26:28 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1763 [main] INFO  06 Mar 2017 00:26:28 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1784 [main] INFO  06 Mar 2017 00:26:28 DubizzleRepoAPITest  - Total No. of Rows: 6
+1797 [main] INFO  06 Mar 2017 00:26:28 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+6985 [main] INFO  06 Mar 2017 00:26:34 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+7268 [main] INFO  06 Mar 2017 00:26:34 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+7295 [main] INFO  06 Mar 2017 00:26:34 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+7298 [main] INFO  06 Mar 2017 00:26:34 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+9076 [main] INFO  06 Mar 2017 00:26:36 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+9079 [main] INFO  06 Mar 2017 00:26:36 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+10991 [main] INFO  06 Mar 2017 00:26:38 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+11231 [main] INFO  06 Mar 2017 00:26:38 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+11235 [main] INFO  06 Mar 2017 00:26:38 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+11237 [main] INFO  06 Mar 2017 00:26:38 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+15222 [main] INFO  06 Mar 2017 00:26:42 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+15494 [main] INFO  06 Mar 2017 00:26:42 DubizzleRepoAPITest  - [PASSED] 'id': 6213292 'name': java
+15496 [main] INFO  06 Mar 2017 00:26:42 DubizzleRepoAPITest  - [PASSED] 'id': 6213292 'language': Ruby
+15500 [main] INFO  06 Mar 2017 00:26:42 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+17502 [main] INFO  06 Mar 2017 00:26:44 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+18295 [main] INFO  06 Mar 2017 00:26:45 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'name': parse-server-npm
+18298 [main] INFO  06 Mar 2017 00:26:45 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'language': JavaScript
+1440 [main] INFO  06 Mar 2017 00:27:26 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1749 [main] INFO  06 Mar 2017 00:27:27 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1749 [main] INFO  06 Mar 2017 00:27:27 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1770 [main] INFO  06 Mar 2017 00:27:27 DubizzleRepoAPITest  - Total No. of Rows: 6
+1782 [main] INFO  06 Mar 2017 00:27:27 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+8218 [main] INFO  06 Mar 2017 00:27:33 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+8504 [main] INFO  06 Mar 2017 00:27:33 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+8512 [main] INFO  06 Mar 2017 00:27:33 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+8512 [main] INFO  06 Mar 2017 00:27:33 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+10380 [main] INFO  06 Mar 2017 00:27:35 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+10381 [main] INFO  06 Mar 2017 00:27:35 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+12790 [main] INFO  06 Mar 2017 00:27:38 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+13099 [main] INFO  06 Mar 2017 00:27:38 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+13101 [main] INFO  06 Mar 2017 00:27:38 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+13105 [main] INFO  06 Mar 2017 00:27:38 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+15737 [main] INFO  06 Mar 2017 00:27:41 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+16069 [main] INFO  06 Mar 2017 00:27:41 DubizzleRepoAPITest  - [PASSED] 'id': 6213292 'name': java
+16071 [main] INFO  06 Mar 2017 00:27:41 DubizzleRepoAPITest  - [PASSED] 'id': 6213292 'language': Ruby
+16072 [main] INFO  06 Mar 2017 00:27:41 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+20469 [main] INFO  06 Mar 2017 00:27:45 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+20755 [main] INFO  06 Mar 2017 00:27:46 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'name': parse-server-npm
+20763 [main] INFO  06 Mar 2017 00:27:46 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'language': JavaScript
+1356 [main] INFO  06 Mar 2017 00:30:04 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1680 [main] INFO  06 Mar 2017 00:30:04 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1681 [main] INFO  06 Mar 2017 00:30:04 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1700 [main] INFO  06 Mar 2017 00:30:04 DubizzleRepoAPITest  - Total No. of Rows: 6
+1711 [main] INFO  06 Mar 2017 00:30:04 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+6981 [main] INFO  06 Mar 2017 00:30:09 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+7869 [main] INFO  06 Mar 2017 00:30:10 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+7877 [main] INFO  06 Mar 2017 00:30:10 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+7878 [main] INFO  06 Mar 2017 00:30:10 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+9930 [main] INFO  06 Mar 2017 00:30:12 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+9933 [main] INFO  06 Mar 2017 00:30:12 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+11617 [main] INFO  06 Mar 2017 00:30:14 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+11864 [main] INFO  06 Mar 2017 00:30:14 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+11900 [main] INFO  06 Mar 2017 00:30:14 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+11903 [main] INFO  06 Mar 2017 00:30:14 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+13767 [main] INFO  06 Mar 2017 00:30:16 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+1400 [main] INFO  06 Mar 2017 00:30:56 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1670 [main] INFO  06 Mar 2017 00:30:56 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1671 [main] INFO  06 Mar 2017 00:30:56 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1687 [main] INFO  06 Mar 2017 00:30:56 DubizzleRepoAPITest  - Total No. of Rows: 6
+1701 [main] INFO  06 Mar 2017 00:30:56 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+7025 [main] INFO  06 Mar 2017 00:31:02 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+7348 [main] INFO  06 Mar 2017 00:31:02 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+7385 [main] INFO  06 Mar 2017 00:31:02 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+7388 [main] INFO  06 Mar 2017 00:31:02 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+11068 [main] INFO  06 Mar 2017 00:31:06 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+11070 [main] INFO  06 Mar 2017 00:31:06 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+13952 [main] INFO  06 Mar 2017 00:31:08 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+14238 [main] INFO  06 Mar 2017 00:31:09 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+14253 [main] INFO  06 Mar 2017 00:31:09 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+14261 [main] INFO  06 Mar 2017 00:31:09 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+16363 [main] INFO  06 Mar 2017 00:31:11 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+16618 [main] INFO  06 Mar 2017 00:31:11 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'name': ParsePy
+16622 [main] INFO  06 Mar 2017 00:31:11 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'language': Python
+16624 [main] INFO  06 Mar 2017 00:31:11 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+18772 [main] INFO  06 Mar 2017 00:31:13 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+19015 [main] INFO  06 Mar 2017 00:31:14 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'name': parse-server-npm
+19023 [main] INFO  06 Mar 2017 00:31:14 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'language': JavaScript
+1414 [main] INFO  06 Mar 2017 00:31:46 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1698 [main] INFO  06 Mar 2017 00:31:46 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1698 [main] INFO  06 Mar 2017 00:31:46 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1700 [main] INFO  06 Mar 2017 00:31:46 DubizzleUserAPITest  - Starting setup to launch dubizzle API testing
+1815 [main] INFO  06 Mar 2017 00:31:46 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+2185 [main] INFO  06 Mar 2017 00:31:47 DubizzleUserAPITest  - WebService API testing URI - https://api.github.com
+2185 [main] INFO  06 Mar 2017 00:31:47 DubizzleUserAPITest  - @BeforeTest: Setup done
+2198 [main] INFO  06 Mar 2017 00:31:47 DubizzleUserAPITest  - Total No. of Rows: 6
+2209 [main] INFO  06 Mar 2017 00:31:47 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+7308 [main] INFO  06 Mar 2017 00:31:52 DubizzleUserAPITest  - [PASSED] Status Code: 200
+8418 [main] INFO  06 Mar 2017 00:31:53 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+8431 [main] INFO  06 Mar 2017 00:31:53 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+8432 [main] INFO  06 Mar 2017 00:31:53 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/users/dubizzle1
+11670 [main] INFO  06 Mar 2017 00:31:56 DubizzleUserAPITest  - [PASSED] Status Code: 404
+11672 [main] INFO  06 Mar 2017 00:31:56 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/users/dubizzle1/users/dubizzleInvalid
+14191 [main] INFO  06 Mar 2017 00:31:59 DubizzleUserAPITest  - [PASSED] Status Code: 404
+14198 [main] INFO  06 Mar 2017 00:31:59 DubizzleRepoAPITest  - Total No. of Rows: 6
+14199 [main] INFO  06 Mar 2017 00:31:59 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+16991 [main] INFO  06 Mar 2017 00:32:01 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+1422 [main] INFO  06 Mar 2017 00:35:49 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1712 [main] INFO  06 Mar 2017 00:35:49 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1712 [main] INFO  06 Mar 2017 00:35:49 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1714 [main] INFO  06 Mar 2017 00:35:49 DubizzleUserAPITest  - Starting setup to launch dubizzle API testing
+1806 [main] INFO  06 Mar 2017 00:35:49 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1974 [main] INFO  06 Mar 2017 00:35:50 DubizzleUserAPITest  - WebService API testing URI - https://api.github.com
+1974 [main] INFO  06 Mar 2017 00:35:50 DubizzleUserAPITest  - @BeforeTest: Setup done
+1989 [main] INFO  06 Mar 2017 00:35:50 DubizzleUserAPITest  - Total No. of Rows: 6
+1999 [main] INFO  06 Mar 2017 00:35:50 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+9373 [main] INFO  06 Mar 2017 00:35:57 DubizzleUserAPITest  - [PASSED] Status Code: 200
+11102 [main] INFO  06 Mar 2017 00:35:59 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+11158 [main] INFO  06 Mar 2017 00:35:59 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+11172 [main] INFO  06 Mar 2017 00:35:59 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+13559 [main] INFO  06 Mar 2017 00:36:01 DubizzleUserAPITest  - [PASSED] Status Code: 404
+13566 [main] INFO  06 Mar 2017 00:36:01 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+15759 [main] INFO  06 Mar 2017 00:36:03 DubizzleUserAPITest  - [PASSED] Status Code: 404
+15776 [main] INFO  06 Mar 2017 00:36:03 DubizzleRepoAPITest  - Total No. of Rows: 6
+15778 [main] INFO  06 Mar 2017 00:36:03 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+18007 [main] INFO  06 Mar 2017 00:36:06 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+23042 [main] INFO  06 Mar 2017 00:37:31 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+23430 [main] INFO  06 Mar 2017 00:37:31 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+23431 [main] INFO  06 Mar 2017 00:37:31 DubizzleRepoAPITest  - @BeforeTest: Setup done
+23435 [main] INFO  06 Mar 2017 00:37:31 DubizzleUserAPITest  - Starting setup to launch dubizzle API testing
+23556 [main] INFO  06 Mar 2017 00:37:31 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+23759 [main] INFO  06 Mar 2017 00:37:32 DubizzleUserAPITest  - WebService API testing URI - https://api.github.com
+23760 [main] INFO  06 Mar 2017 00:37:32 DubizzleUserAPITest  - @BeforeTest: Setup done
+23777 [main] INFO  06 Mar 2017 00:37:32 DubizzleUserAPITest  - Total No. of Rows: 6
+23790 [main] INFO  06 Mar 2017 00:37:32 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+33463 [main] INFO  06 Mar 2017 00:37:41 DubizzleUserAPITest  - [PASSED] Status Code: 200
+34293 [main] INFO  06 Mar 2017 00:37:42 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+34307 [main] INFO  06 Mar 2017 00:37:42 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+34308 [main] INFO  06 Mar 2017 00:37:42 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+36599 [main] INFO  06 Mar 2017 00:37:44 DubizzleUserAPITest  - [PASSED] Status Code: 404
+36603 [main] INFO  06 Mar 2017 00:37:44 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+39149 [main] INFO  06 Mar 2017 00:37:47 DubizzleUserAPITest  - [PASSED] Status Code: 404
+56738 [main] INFO  06 Mar 2017 00:38:05 DubizzleRepoAPITest  - Total No. of Rows: 6
+56740 [main] INFO  06 Mar 2017 00:38:05 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+59515 [main] INFO  06 Mar 2017 00:38:07 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+60142 [main] INFO  06 Mar 2017 00:40:31 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+71842 [main] INFO  06 Mar 2017 00:40:43 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+79729 [main] INFO  06 Mar 2017 00:40:50 DubizzleRepoAPITest  - @BeforeTest: Setup done
+115391 [main] INFO  06 Mar 2017 00:41:26 DubizzleUserAPITest  - Starting setup to launch dubizzle USER API testing
+116439 [main] INFO  06 Mar 2017 00:41:27 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+116861 [main] INFO  06 Mar 2017 00:41:28 DubizzleUserAPITest  - WebService API testing URI - https://api.github.com
+116862 [main] INFO  06 Mar 2017 00:41:28 DubizzleUserAPITest  - @BeforeTest: Setup done
+123604 [main] INFO  06 Mar 2017 00:41:34 DubizzleUserAPITest  - Total No. of Rows: 6
+123651 [main] INFO  06 Mar 2017 00:41:34 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+141215 [main] INFO  06 Mar 2017 00:41:52 DubizzleUserAPITest  - [PASSED] Status Code: 200
+143188 [main] INFO  06 Mar 2017 00:41:54 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+143277 [main] INFO  06 Mar 2017 00:41:54 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+143284 [main] INFO  06 Mar 2017 00:41:54 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+145369 [main] INFO  06 Mar 2017 00:41:56 DubizzleUserAPITest  - [PASSED] Status Code: 404
+145384 [main] INFO  06 Mar 2017 00:41:56 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+147873 [main] INFO  06 Mar 2017 00:41:59 DubizzleUserAPITest  - [PASSED] Status Code: 404
+190372 [main] INFO  06 Mar 2017 00:42:41 DubizzleRepoAPITest  - Total No. of Rows: 6
+1364 [main] INFO  06 Mar 2017 00:43:46 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1725 [main] INFO  06 Mar 2017 00:43:47 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1725 [main] INFO  06 Mar 2017 00:43:47 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1728 [main] INFO  06 Mar 2017 00:43:47 DubizzleUserAPITest  - Starting setup to launch dubizzle USER API testing
+1823 [main] INFO  06 Mar 2017 00:43:47 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1986 [main] INFO  06 Mar 2017 00:43:47 DubizzleUserAPITest  - WebService API testing URI - https://api.github.com
+1987 [main] INFO  06 Mar 2017 00:43:47 DubizzleUserAPITest  - @BeforeTest: Setup done
+2001 [main] INFO  06 Mar 2017 00:43:47 DubizzleUserAPITest  - Total No. of Rows: 6
+2010 [main] INFO  06 Mar 2017 00:43:47 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+7486 [main] INFO  06 Mar 2017 00:43:52 DubizzleUserAPITest  - [PASSED] Status Code: 200
+8065 [main] INFO  06 Mar 2017 00:43:53 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+8117 [main] INFO  06 Mar 2017 00:43:53 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+8119 [main] INFO  06 Mar 2017 00:43:53 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+9882 [main] INFO  06 Mar 2017 00:43:55 DubizzleUserAPITest  - [PASSED] Status Code: 404
+9884 [main] INFO  06 Mar 2017 00:43:55 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+11827 [main] INFO  06 Mar 2017 00:43:57 DubizzleUserAPITest  - [PASSED] Status Code: 404
+11880 [main] INFO  06 Mar 2017 00:43:57 DubizzleRepoAPITest  - Total No. of Rows: 6
+11890 [main] INFO  06 Mar 2017 00:43:57 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+13791 [main] INFO  06 Mar 2017 00:43:59 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+14097 [main] INFO  06 Mar 2017 00:43:59 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+14103 [main] INFO  06 Mar 2017 00:43:59 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+14104 [main] INFO  06 Mar 2017 00:43:59 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+15926 [main] INFO  06 Mar 2017 00:44:01 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+15929 [main] INFO  06 Mar 2017 00:44:01 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+17565 [main] INFO  06 Mar 2017 00:44:02 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+17941 [main] INFO  06 Mar 2017 00:44:03 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+17944 [main] INFO  06 Mar 2017 00:44:03 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+17945 [main] INFO  06 Mar 2017 00:44:03 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+20260 [main] INFO  06 Mar 2017 00:44:05 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+20845 [main] INFO  06 Mar 2017 00:44:06 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'name': ParsePy
+20861 [main] INFO  06 Mar 2017 00:44:06 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'language': Python
+20862 [main] INFO  06 Mar 2017 00:44:06 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+23403 [main] INFO  06 Mar 2017 00:44:08 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+24019 [main] INFO  06 Mar 2017 00:44:09 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'name': parse-server-npm
+24022 [main] INFO  06 Mar 2017 00:44:09 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'language': JavaScript
+945  [main] INFO  06 Mar 2017 00:45:40 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1171 [main] INFO  06 Mar 2017 00:45:40 DubizzleSearchResultTest  - WebService API testing URI - url
+1172 [main] INFO  06 Mar 2017 00:45:40 DubizzleSearchResultTest  - @BeforeTest: Setup done
+1178 [main] INFO  06 Mar 2017 00:45:40 DubizzleSearchResultTest  - Total No of Test Cases: 3
+1184 [main] INFO  06 Mar 2017 00:45:40 DubizzleHomePage  - Perform click on Used cars sub-menu
+1186 [main] ERROR 06 Mar 2017 00:45:40 DubizzleHomePage  - Exception occured while clicking Used cars Motors 
+null
+803  [main] INFO  06 Mar 2017 01:04:08 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+12492 [main] INFO  06 Mar 2017 01:04:20 DubizzleSearchResultTest  - Firefox driver invoked
+12492 [main] INFO  06 Mar 2017 01:04:20 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+12493 [main] INFO  06 Mar 2017 01:04:20 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+31603 [main] INFO  06 Mar 2017 01:04:39 DubizzleSearchResultTest  - @BeforeTest: Setup done
+31619 [main] INFO  06 Mar 2017 01:04:39 DubizzleSearchResultTest  - Total No of Test Cases: 3
+31637 [main] INFO  06 Mar 2017 01:04:39 DubizzleHomePage  - Perform click on Used cars sub-menu
+32902 [main] INFO  06 Mar 2017 01:04:40 DubizzleHomePage  - Clicked on Used cars sub-menu
+32909 [main] INFO  06 Mar 2017 01:04:40 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+42558 [main] INFO  06 Mar 2017 01:04:50 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+43391 [main] INFO  06 Mar 2017 01:04:51 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+52920 [main] INFO  06 Mar 2017 01:05:00 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+52920 [main] INFO  06 Mar 2017 01:05:00 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+52921 [main] INFO  06 Mar 2017 01:05:00 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+52923 [main] INFO  06 Mar 2017 01:05:00 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+53603 [main] INFO  06 Mar 2017 01:05:01 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+53603 [main] INFO  06 Mar 2017 01:05:01 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+61429 [main] INFO  06 Mar 2017 01:05:09 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+62606 [main] INFO  06 Mar 2017 01:05:10 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+86281 [main] INFO  06 Mar 2017 01:05:33 JobOnlineMediaPage  - Extracted Dates from      UI: [Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Dec 11 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Jul 21 00:00:00 IST 2016, Sun Sep 20 00:00:00 IST 2015, Sun Nov 20 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016]
+86314 [main] INFO  06 Mar 2017 01:05:34 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Sep 20 00:00:00 IST 2015, Thu Jul 21 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Nov 20 00:00:00 IST 2016, Sun Dec 11 00:00:00 IST 2016, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017]
+86317 [main] INFO  06 Mar 2017 01:05:34 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+86337 [main] INFO  06 Mar 2017 01:05:34 DubizzleRepoAPITest  - Starting setup to launch dubizzle REPO API testing
+86413 [main] INFO  06 Mar 2017 01:05:34 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+92477 [main] INFO  06 Mar 2017 01:05:40 DubizzleRepoAPITest  - Firefox driver invoked
+92477 [main] INFO  06 Mar 2017 01:05:40 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+92478 [main] INFO  06 Mar 2017 01:05:40 DubizzleRepoAPITest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+109287 [main] INFO  06 Mar 2017 01:05:57 DubizzleRepoAPITest  - @BeforeTest: Setup done
+109291 [main] INFO  06 Mar 2017 01:05:57 DubizzleUserAPITest  - Starting setup to launch dubizzle USER API testing
+109328 [main] INFO  06 Mar 2017 01:05:57 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+116077 [main] INFO  06 Mar 2017 01:06:03 DubizzleUserAPITest  - Firefox driver invoked
+116077 [main] INFO  06 Mar 2017 01:06:03 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+116077 [main] INFO  06 Mar 2017 01:06:03 DubizzleUserAPITest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+129449 [main] INFO  06 Mar 2017 01:06:17 DubizzleUserAPITest  - @BeforeTest: Setup done
+129451 [main] INFO  06 Mar 2017 01:06:17 DubizzleUserAPITest  - Total No. of Rows: 6
+129458 [main] INFO  06 Mar 2017 01:06:17 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+138428 [main] INFO  06 Mar 2017 01:06:26 DubizzleUserAPITest  - [PASSED] Status Code: 200
+140993 [main] INFO  06 Mar 2017 01:06:28 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+141018 [main] INFO  06 Mar 2017 01:06:28 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+141021 [main] INFO  06 Mar 2017 01:06:28 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+142466 [main] INFO  06 Mar 2017 01:06:30 DubizzleUserAPITest  - [PASSED] Status Code: 404
+142478 [main] INFO  06 Mar 2017 01:06:30 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+144048 [main] INFO  06 Mar 2017 01:06:31 DubizzleUserAPITest  - [PASSED] Status Code: 404
+144306 [main] INFO  06 Mar 2017 01:06:32 DubizzleRepoAPITest  - Total No. of Rows: 6
+144309 [main] INFO  06 Mar 2017 01:06:32 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+146040 [main] INFO  06 Mar 2017 01:06:33 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+146316 [main] INFO  06 Mar 2017 01:06:34 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+146354 [main] INFO  06 Mar 2017 01:06:34 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+146379 [main] INFO  06 Mar 2017 01:06:34 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+147784 [main] INFO  06 Mar 2017 01:06:35 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+147785 [main] INFO  06 Mar 2017 01:06:35 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+149225 [main] INFO  06 Mar 2017 01:06:36 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+149462 [main] INFO  06 Mar 2017 01:06:37 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+149478 [main] INFO  06 Mar 2017 01:06:37 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+149488 [main] INFO  06 Mar 2017 01:06:37 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+150963 [main] INFO  06 Mar 2017 01:06:38 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+151195 [main] INFO  06 Mar 2017 01:06:38 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'name': ParsePy
+151206 [main] INFO  06 Mar 2017 01:06:38 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'language': Python
+151208 [main] INFO  06 Mar 2017 01:06:38 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+152795 [main] INFO  06 Mar 2017 01:06:40 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+153052 [main] INFO  06 Mar 2017 01:06:40 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'name': parse-server-npm
+153065 [main] INFO  06 Mar 2017 01:06:40 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'language': JavaScript
+867  [main] INFO  06 Mar 2017 01:09:21 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+8512 [main] INFO  06 Mar 2017 01:09:29 DubizzleSearchResultTest  - Firefox driver invoked
+8513 [main] INFO  06 Mar 2017 01:09:29 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+8514 [main] INFO  06 Mar 2017 01:09:29 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+27419 [main] INFO  06 Mar 2017 01:09:47 DubizzleSearchResultTest  - @BeforeTest: Setup done
+27435 [main] INFO  06 Mar 2017 01:09:47 DubizzleSearchResultTest  - Total No of Test Cases: 3
+27445 [main] INFO  06 Mar 2017 01:09:47 DubizzleHomePage  - Perform click on Used cars sub-menu
+27929 [main] INFO  06 Mar 2017 01:09:48 DubizzleHomePage  - Clicked on Used cars sub-menu
+27936 [main] INFO  06 Mar 2017 01:09:48 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+34338 [main] INFO  06 Mar 2017 01:09:54 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+38559 [main] INFO  06 Mar 2017 01:09:59 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+48771 [main] INFO  06 Mar 2017 01:10:09 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+48772 [main] INFO  06 Mar 2017 01:10:09 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+48772 [main] INFO  06 Mar 2017 01:10:09 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+48775 [main] INFO  06 Mar 2017 01:10:09 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+50445 [main] INFO  06 Mar 2017 01:10:10 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+50445 [main] INFO  06 Mar 2017 01:10:10 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+57553 [main] INFO  06 Mar 2017 01:10:18 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+58020 [main] INFO  06 Mar 2017 01:10:18 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+74849 [main] INFO  06 Mar 2017 01:10:35 JobOnlineMediaPage  - Extracted Dates from      UI: [Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Dec 11 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Jul 21 00:00:00 IST 2016, Sun Sep 20 00:00:00 IST 2015, Sun Nov 20 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016]
+74852 [main] INFO  06 Mar 2017 01:10:35 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Sep 20 00:00:00 IST 2015, Thu Jul 21 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Nov 20 00:00:00 IST 2016, Sun Dec 11 00:00:00 IST 2016, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017]
+74853 [main] INFO  06 Mar 2017 01:10:35 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+74911 [main] INFO  06 Mar 2017 01:10:35 DubizzleUserAPITest  - Total No. of Rows: 3
+74912 [main] INFO  06 Mar 2017 01:10:35 DubizzleUserAPITest  - Rest WebService API: https://api.github.comMotors
+77455 [main] INFO  06 Mar 2017 01:10:37 DubizzleRepoAPITest  - Total No. of Rows: 6
+77462 [main] INFO  06 Mar 2017 01:10:37 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+79995 [main] INFO  06 Mar 2017 01:10:40 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+80166 [main] INFO  06 Mar 2017 01:10:40 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+80176 [main] INFO  06 Mar 2017 01:10:40 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+80178 [main] INFO  06 Mar 2017 01:10:40 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+81836 [main] INFO  06 Mar 2017 01:10:42 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+81838 [main] INFO  06 Mar 2017 01:10:42 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+83834 [main] INFO  06 Mar 2017 01:10:44 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+84094 [main] INFO  06 Mar 2017 01:10:44 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+84100 [main] INFO  06 Mar 2017 01:10:44 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+84102 [main] INFO  06 Mar 2017 01:10:44 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+85845 [main] INFO  06 Mar 2017 01:10:46 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+86088 [main] INFO  06 Mar 2017 01:10:46 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'name': ParsePy
+86094 [main] INFO  06 Mar 2017 01:10:46 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'language': Python
+86100 [main] INFO  06 Mar 2017 01:10:46 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+87596 [main] INFO  06 Mar 2017 01:10:48 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+87842 [main] INFO  06 Mar 2017 01:10:48 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'name': parse-server-npm
+87874 [main] INFO  06 Mar 2017 01:10:48 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'language': JavaScript
+896  [main] INFO  06 Mar 2017 01:11:53 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+7696 [main] INFO  06 Mar 2017 01:12:00 DubizzleSearchResultTest  - Firefox driver invoked
+7697 [main] INFO  06 Mar 2017 01:12:00 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+7697 [main] INFO  06 Mar 2017 01:12:00 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+22030 [main] INFO  06 Mar 2017 01:12:14 DubizzleSearchResultTest  - @BeforeTest: Setup done
+22040 [main] INFO  06 Mar 2017 01:12:14 DubizzleSearchResultTest  - Total No of Test Cases: 3
+22046 [main] INFO  06 Mar 2017 01:12:14 DubizzleHomePage  - Perform click on Used cars sub-menu
+22334 [main] INFO  06 Mar 2017 01:12:14 DubizzleHomePage  - Clicked on Used cars sub-menu
+22338 [main] INFO  06 Mar 2017 01:12:14 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+29039 [main] INFO  06 Mar 2017 01:12:21 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+32057 [main] INFO  06 Mar 2017 01:12:24 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+41632 [main] INFO  06 Mar 2017 01:12:34 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+41633 [main] INFO  06 Mar 2017 01:12:34 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+41634 [main] INFO  06 Mar 2017 01:12:34 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+41638 [main] INFO  06 Mar 2017 01:12:34 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+42444 [main] INFO  06 Mar 2017 01:12:34 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+42444 [main] INFO  06 Mar 2017 01:12:34 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+50455 [main] INFO  06 Mar 2017 01:12:42 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+51288 [main] INFO  06 Mar 2017 01:12:43 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+60465 [main] INFO  06 Mar 2017 01:12:52 JobOnlineMediaPage  - Extracted Dates from      UI: [Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Dec 11 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Jul 21 00:00:00 IST 2016, Sun Sep 20 00:00:00 IST 2015, Sun Nov 20 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016]
+60466 [main] INFO  06 Mar 2017 01:12:52 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Sep 20 00:00:00 IST 2015, Thu Jul 21 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Nov 20 00:00:00 IST 2016, Sun Dec 11 00:00:00 IST 2016, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017]
+60467 [main] INFO  06 Mar 2017 01:12:52 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+60589 [main] INFO  06 Mar 2017 01:12:52 DubizzleUserAPITest  - Total No. of Rows: 6
+60600 [main] INFO  06 Mar 2017 01:12:52 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+65599 [main] INFO  06 Mar 2017 01:12:57 DubizzleUserAPITest  - [PASSED] Status Code: 200
+67012 [main] INFO  06 Mar 2017 01:12:59 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+67042 [main] INFO  06 Mar 2017 01:12:59 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+67046 [main] INFO  06 Mar 2017 01:12:59 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+68646 [main] INFO  06 Mar 2017 01:13:01 DubizzleUserAPITest  - [PASSED] Status Code: 404
+68654 [main] INFO  06 Mar 2017 01:13:01 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+69959 [main] INFO  06 Mar 2017 01:13:02 DubizzleUserAPITest  - [PASSED] Status Code: 404
+70011 [main] INFO  06 Mar 2017 01:13:02 DubizzleRepoAPITest  - Total No. of Rows: 6
+70013 [main] INFO  06 Mar 2017 01:13:02 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+71677 [main] INFO  06 Mar 2017 01:13:04 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+72473 [main] INFO  06 Mar 2017 01:13:04 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+72497 [main] INFO  06 Mar 2017 01:13:04 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+72499 [main] INFO  06 Mar 2017 01:13:04 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+74071 [main] INFO  06 Mar 2017 01:13:06 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+74073 [main] INFO  06 Mar 2017 01:13:06 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+75616 [main] INFO  06 Mar 2017 01:13:07 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+76017 [main] INFO  06 Mar 2017 01:13:08 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+76022 [main] INFO  06 Mar 2017 01:13:08 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+76023 [main] INFO  06 Mar 2017 01:13:08 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+77340 [main] INFO  06 Mar 2017 01:13:09 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+77576 [main] INFO  06 Mar 2017 01:13:09 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'name': ParsePy
+77580 [main] INFO  06 Mar 2017 01:13:09 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'language': Python
+77581 [main] INFO  06 Mar 2017 01:13:09 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+79451 [main] INFO  06 Mar 2017 01:13:11 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+79679 [main] INFO  06 Mar 2017 01:13:12 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'name': parse-server-npm
+79685 [main] INFO  06 Mar 2017 01:13:12 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'language': JavaScript
+11002 [main] INFO  06 Mar 2017 01:30:44 DubizzleSearchResultTest  - Firefox driver invoked
+11004 [main] INFO  06 Mar 2017 01:30:44 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+11004 [main] INFO  06 Mar 2017 01:30:44 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+27764 [main] INFO  06 Mar 2017 01:31:01 DubizzleSearchResultTest  - @BeforeTest: Setup done
+27782 [main] INFO  06 Mar 2017 01:31:01 DubizzleSearchResultTest  - Total No of Test Cases: 3
+27789 [main] INFO  06 Mar 2017 01:31:01 DubizzleHomePage  - Perform click on Used cars sub-menu
+28190 [main] INFO  06 Mar 2017 01:31:01 DubizzleHomePage  - Clicked on Used cars sub-menu
+28192 [main] INFO  06 Mar 2017 01:31:01 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+35217 [main] INFO  06 Mar 2017 01:31:08 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+38650 [main] INFO  06 Mar 2017 01:31:12 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+47994 [main] INFO  06 Mar 2017 01:31:21 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+47994 [main] INFO  06 Mar 2017 01:31:21 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+48047 [main] INFO  06 Mar 2017 01:31:21 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+48049 [main] INFO  06 Mar 2017 01:31:21 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+48421 [main] INFO  06 Mar 2017 01:31:21 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+48421 [main] INFO  06 Mar 2017 01:31:21 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+56872 [main] INFO  06 Mar 2017 01:31:30 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+58357 [main] INFO  06 Mar 2017 01:31:31 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+67128 [main] INFO  06 Mar 2017 01:31:40 JobOnlineMediaPage  - Extracted Dates from      UI: [Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Dec 11 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Jul 21 00:00:00 IST 2016, Sun Sep 20 00:00:00 IST 2015, Sun Nov 20 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016]
+67129 [main] INFO  06 Mar 2017 01:31:40 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Sep 20 00:00:00 IST 2015, Thu Jul 21 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Nov 20 00:00:00 IST 2016, Sun Dec 11 00:00:00 IST 2016, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017]
+67130 [main] INFO  06 Mar 2017 01:31:40 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+67191 [main] INFO  06 Mar 2017 01:31:40 DubizzleSearchResultTest  - Starting setup to launch dubizzle website
+81921 [main] INFO  06 Mar 2017 01:31:55 DubizzleSearchResultTest  - Chrome driver invoked
+81922 [main] INFO  06 Mar 2017 01:31:55 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+81922 [main] INFO  06 Mar 2017 01:31:55 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+98436 [main] INFO  06 Mar 2017 01:32:11 DubizzleSearchResultTest  - @BeforeTest: Setup done
+98438 [main] INFO  06 Mar 2017 01:32:11 DubizzleSearchResultTest  - Total No of Test Cases: 3
+98439 [main] INFO  06 Mar 2017 01:32:11 DubizzleHomePage  - Perform click on Used cars sub-menu
+6313 [TestNG] INFO  06 Mar 2017 01:33:13 DubizzleSearchResultTest  - Chrome driver invoked
+6314 [TestNG] INFO  06 Mar 2017 01:33:13 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+6315 [TestNG] INFO  06 Mar 2017 01:33:13 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+14206 [TestNG] INFO  06 Mar 2017 01:33:21 DubizzleSearchResultTest  - Firefox driver invoked
+14207 [TestNG] INFO  06 Mar 2017 01:33:21 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+14207 [TestNG] INFO  06 Mar 2017 01:33:21 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+16288 [TestNG] INFO  06 Mar 2017 01:33:23 DubizzleSearchResultTest  - @BeforeTest: Setup done
+16300 [TestNG] INFO  06 Mar 2017 01:33:23 DubizzleSearchResultTest  - Total No of Test Cases: 3
+16308 [TestNG] INFO  06 Mar 2017 01:33:23 DubizzleHomePage  - Perform click on Used cars sub-menu
+23518 [TestNG] INFO  06 Mar 2017 01:33:31 DubizzleSearchResultTest  - @BeforeTest: Setup done
+23521 [TestNG] INFO  06 Mar 2017 01:33:31 DubizzleSearchResultTest  - Total No of Test Cases: 3
+23521 [TestNG] INFO  06 Mar 2017 01:33:31 DubizzleHomePage  - Perform click on Used cars sub-menu
+23888 [TestNG] INFO  06 Mar 2017 01:33:31 DubizzleHomePage  - Clicked on Used cars sub-menu
+23889 [TestNG] INFO  06 Mar 2017 01:33:31 DubizzleHomePage  - Clicked on Used cars sub-menu
+23893 [TestNG] INFO  06 Mar 2017 01:33:31 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+23893 [TestNG] INFO  06 Mar 2017 01:33:31 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+33767 [TestNG] INFO  06 Mar 2017 01:33:41 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+33776 [TestNG] INFO  06 Mar 2017 01:33:41 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+36078 [TestNG] INFO  06 Mar 2017 01:33:43 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+43965 [TestNG] INFO  06 Mar 2017 01:33:51 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+43965 [TestNG] INFO  06 Mar 2017 01:33:51 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+43965 [TestNG] INFO  06 Mar 2017 01:33:51 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+43966 [TestNG] INFO  06 Mar 2017 01:33:51 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+44352 [TestNG] INFO  06 Mar 2017 01:33:51 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+44352 [TestNG] INFO  06 Mar 2017 01:33:51 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+50898 [TestNG] INFO  06 Mar 2017 01:33:58 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+51396 [TestNG] INFO  06 Mar 2017 01:33:58 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+59590 [TestNG] INFO  06 Mar 2017 01:34:07 JobOnlineMediaPage  - Extracted Dates from      UI: [Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Dec 11 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Jul 21 00:00:00 IST 2016, Sun Sep 20 00:00:00 IST 2015, Sun Nov 20 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016]
+59591 [TestNG] INFO  06 Mar 2017 01:34:07 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Sep 20 00:00:00 IST 2015, Thu Jul 21 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Nov 20 00:00:00 IST 2016, Sun Dec 11 00:00:00 IST 2016, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017]
+59591 [TestNG] INFO  06 Mar 2017 01:34:07 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+5729 [TestNG] INFO  06 Mar 2017 01:35:10 DubizzleSearchResultTest  - Chrome driver invoked
+5732 [TestNG] INFO  06 Mar 2017 01:35:10 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+5732 [TestNG] INFO  06 Mar 2017 01:35:10 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+8642 [TestNG] INFO  06 Mar 2017 01:35:13 DubizzleSearchResultTest  - Firefox driver invoked
+8644 [TestNG] INFO  06 Mar 2017 01:35:13 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+8644 [TestNG] INFO  06 Mar 2017 01:35:13 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+15991 [TestNG] INFO  06 Mar 2017 01:35:20 DubizzleSearchResultTest  - @BeforeTest: Setup done
+16007 [TestNG] INFO  06 Mar 2017 01:35:20 DubizzleSearchResultTest  - Total No of Test Cases: 3
+16016 [TestNG] INFO  06 Mar 2017 01:35:20 DubizzleHomePage  - Perform click on Used cars sub-menu
+21998 [TestNG] INFO  06 Mar 2017 01:35:26 DubizzleSearchResultTest  - @BeforeTest: Setup done
+22009 [TestNG] INFO  06 Mar 2017 01:35:26 DubizzleSearchResultTest  - Total No of Test Cases: 3
+22010 [TestNG] INFO  06 Mar 2017 01:35:26 DubizzleHomePage  - Perform click on Used cars sub-menu
+22395 [TestNG] INFO  06 Mar 2017 01:35:26 DubizzleHomePage  - Clicked on Used cars sub-menu
+22399 [TestNG] INFO  06 Mar 2017 01:35:26 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+29294 [TestNG] INFO  06 Mar 2017 01:35:33 DubizzleHomePage  - Clicked on Used cars sub-menu
+29294 [TestNG] INFO  06 Mar 2017 01:35:33 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+5605 [TestNG] INFO  06 Mar 2017 01:36:51 DubizzleSearchResultTest  - Chrome driver invoked
+5607 [TestNG] INFO  06 Mar 2017 01:36:51 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+5608 [TestNG] INFO  06 Mar 2017 01:36:51 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+9248 [TestNG] INFO  06 Mar 2017 01:36:55 DubizzleSearchResultTest  - Firefox driver invoked
+9248 [TestNG] INFO  06 Mar 2017 01:36:55 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+9249 [TestNG] INFO  06 Mar 2017 01:36:55 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+19053 [TestNG] INFO  06 Mar 2017 01:37:05 DubizzleSearchResultTest  - @BeforeTest: Setup done
+19070 [TestNG] INFO  06 Mar 2017 01:37:05 DubizzleSearchResultTest  - Total No of Test Cases: 3
+19079 [TestNG] INFO  06 Mar 2017 01:37:05 DubizzleHomePage  - Perform click on Used cars sub-menu
+24184 [TestNG] INFO  06 Mar 2017 01:37:10 DubizzleSearchResultTest  - @BeforeTest: Setup done
+24189 [TestNG] INFO  06 Mar 2017 01:37:10 DubizzleSearchResultTest  - Total No of Test Cases: 3
+24193 [TestNG] INFO  06 Mar 2017 01:37:10 DubizzleHomePage  - Perform click on Used cars sub-menu
+24492 [TestNG] INFO  06 Mar 2017 01:37:10 DubizzleHomePage  - Clicked on Used cars sub-menu
+24497 [TestNG] INFO  06 Mar 2017 01:37:10 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+33195 [TestNG] INFO  06 Mar 2017 01:37:19 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+33906 [TestNG] INFO  06 Mar 2017 01:37:19 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+33908 [TestNG] INFO  06 Mar 2017 01:37:19 DubizzleHomePage  - Clicked on Used cars sub-menu
+33908 [TestNG] INFO  06 Mar 2017 01:37:19 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+44158 [TestNG] INFO  06 Mar 2017 01:37:30 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+44411 [TestNG] INFO  06 Mar 2017 01:37:30 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+45167 [TestNG] INFO  06 Mar 2017 01:37:31 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+45168 [TestNG] INFO  06 Mar 2017 01:37:31 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+45172 [TestNG] INFO  06 Mar 2017 01:37:31 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+45173 [TestNG] INFO  06 Mar 2017 01:37:31 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+46016 [TestNG] INFO  06 Mar 2017 01:37:32 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+46017 [TestNG] INFO  06 Mar 2017 01:37:32 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+53418 [TestNG] INFO  06 Mar 2017 01:37:39 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+53886 [TestNG] INFO  06 Mar 2017 01:37:39 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+62195 [TestNG] INFO  06 Mar 2017 01:37:48 JobOnlineMediaPage  - Extracted Dates from      UI: [Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Dec 11 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Jul 21 00:00:00 IST 2016, Sun Sep 20 00:00:00 IST 2015, Sun Nov 20 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016]
+62197 [TestNG] INFO  06 Mar 2017 01:37:48 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Sep 20 00:00:00 IST 2015, Thu Jul 21 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Nov 20 00:00:00 IST 2016, Sun Dec 11 00:00:00 IST 2016, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017]
+62197 [TestNG] INFO  06 Mar 2017 01:37:48 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+8407 [main] INFO  06 Mar 2017 01:40:15 DubizzleSearchResultTest  - Firefox driver invoked
+8409 [main] INFO  06 Mar 2017 01:40:15 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+8409 [main] INFO  06 Mar 2017 01:40:15 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+17645 [main] INFO  06 Mar 2017 01:40:24 DubizzleSearchResultTest  - @BeforeTest: Setup done
+17663 [main] INFO  06 Mar 2017 01:40:24 DubizzleSearchResultTest  - Total No of Test Cases: 3
+17672 [main] INFO  06 Mar 2017 01:40:24 DubizzleHomePage  - Perform click on Used cars sub-menu
+17989 [main] INFO  06 Mar 2017 01:40:24 DubizzleHomePage  - Clicked on Used cars sub-menu
+17992 [main] INFO  06 Mar 2017 01:40:24 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+23693 [main] INFO  06 Mar 2017 01:40:30 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+26551 [main] INFO  06 Mar 2017 01:40:33 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+36595 [main] INFO  06 Mar 2017 01:40:43 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+36595 [main] INFO  06 Mar 2017 01:40:43 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+36596 [main] INFO  06 Mar 2017 01:40:43 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+36600 [main] INFO  06 Mar 2017 01:40:43 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+37415 [main] INFO  06 Mar 2017 01:40:44 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+37415 [main] INFO  06 Mar 2017 01:40:44 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+45782 [main] INFO  06 Mar 2017 01:40:52 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+48161 [main] INFO  06 Mar 2017 01:40:55 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+56894 [main] INFO  06 Mar 2017 01:41:03 JobOnlineMediaPage  - Extracted Dates from      UI: [Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Dec 11 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Jul 21 00:00:00 IST 2016, Sun Sep 20 00:00:00 IST 2015, Sun Nov 20 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016]
+56895 [main] INFO  06 Mar 2017 01:41:03 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Sep 20 00:00:00 IST 2015, Thu Jul 21 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Nov 20 00:00:00 IST 2016, Sun Dec 11 00:00:00 IST 2016, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017]
+56895 [main] INFO  06 Mar 2017 01:41:03 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+56924 [main] INFO  06 Mar 2017 01:41:03 DubizzleSearchResultTest  - Starting setup to launch dubizzle website
+60683 [main] INFO  06 Mar 2017 01:41:07 DubizzleSearchResultTest  - Chrome driver invoked
+60683 [main] INFO  06 Mar 2017 01:41:07 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+60684 [main] INFO  06 Mar 2017 01:41:07 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+70112 [main] INFO  06 Mar 2017 01:41:17 DubizzleSearchResultTest  - @BeforeTest: Setup done
+70114 [main] INFO  06 Mar 2017 01:41:17 DubizzleSearchResultTest  - Total No of Test Cases: 3
+70115 [main] INFO  06 Mar 2017 01:41:17 DubizzleHomePage  - Perform click on Used cars sub-menu
+70327 [main] INFO  06 Mar 2017 01:41:17 DubizzleHomePage  - Clicked on Used cars sub-menu
+70327 [main] INFO  06 Mar 2017 01:41:17 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+1560 [main] INFO  06 Mar 2017 01:44:32 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+9462 [main] INFO  06 Mar 2017 01:44:40 DubizzleSearchResultTest  - Firefox driver invoked
+9463 [main] INFO  06 Mar 2017 01:44:40 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+9463 [main] INFO  06 Mar 2017 01:44:40 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+18759 [main] INFO  06 Mar 2017 01:44:49 DubizzleSearchResultTest  - @BeforeTest: Setup done
+18775 [main] INFO  06 Mar 2017 01:44:49 DubizzleSearchResultTest  - Total No of Test Cases: 3
+18781 [main] INFO  06 Mar 2017 01:44:49 DubizzleHomePage  - Perform click on Used cars sub-menu
+19031 [main] ERROR 06 Mar 2017 01:44:49 DubizzleHomePage  - Exception occured while clicking Used cars Motors 
+Element is not currently visible and so may not be interacted with (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Abu-PC', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 74878248-7dc9-4ad4-91a8-a6f6a1992845
+1285 [main] INFO  06 Mar 2017 01:45:19 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+11787 [main] INFO  06 Mar 2017 01:45:30 DubizzleSearchResultTest  - Firefox driver invoked
+11787 [main] INFO  06 Mar 2017 01:45:30 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+11788 [main] INFO  06 Mar 2017 01:45:30 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+20436 [main] INFO  06 Mar 2017 01:45:38 DubizzleSearchResultTest  - @BeforeTest: Setup done
+20449 [main] INFO  06 Mar 2017 01:45:38 DubizzleSearchResultTest  - Total No of Test Cases: 3
+20457 [main] INFO  06 Mar 2017 01:45:38 DubizzleHomePage  - Perform click on Used cars sub-menu
+20685 [main] INFO  06 Mar 2017 01:45:39 DubizzleHomePage  - Clicked on Used cars sub-menu
+20687 [main] INFO  06 Mar 2017 01:45:39 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+26581 [main] INFO  06 Mar 2017 01:45:44 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+27213 [main] INFO  06 Mar 2017 01:45:45 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+35619 [main] INFO  06 Mar 2017 01:45:53 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+35619 [main] INFO  06 Mar 2017 01:45:53 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+35620 [main] INFO  06 Mar 2017 01:45:53 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+35622 [main] INFO  06 Mar 2017 01:45:53 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+36208 [main] INFO  06 Mar 2017 01:45:54 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+36208 [main] INFO  06 Mar 2017 01:45:54 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+44216 [main] INFO  06 Mar 2017 01:46:02 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+44766 [main] INFO  06 Mar 2017 01:46:03 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+53082 [main] INFO  06 Mar 2017 01:46:11 JobOnlineMediaPage  - Extracted Dates from      UI: [Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Dec 11 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Jul 21 00:00:00 IST 2016, Sun Sep 20 00:00:00 IST 2015, Sun Nov 20 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016]
+53083 [main] INFO  06 Mar 2017 01:46:11 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Sep 20 00:00:00 IST 2015, Thu Jul 21 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Nov 20 00:00:00 IST 2016, Sun Dec 11 00:00:00 IST 2016, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017]
+53083 [main] INFO  06 Mar 2017 01:46:11 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+878  [main] INFO  06 Mar 2017 01:48:07 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+7872 [main] INFO  06 Mar 2017 01:48:14 DubizzleSearchResultTest  - Firefox driver invoked
+7872 [main] INFO  06 Mar 2017 01:48:14 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+7872 [main] INFO  06 Mar 2017 01:48:14 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+16175 [main] INFO  06 Mar 2017 01:48:22 DubizzleSearchResultTest  - @BeforeTest: Setup done
+16186 [main] INFO  06 Mar 2017 01:48:22 DubizzleSearchResultTest  - Total No of Test Cases: 3
+16195 [main] INFO  06 Mar 2017 01:48:22 DubizzleHomePage  - Perform click on Used cars sub-menu
+16458 [main] INFO  06 Mar 2017 01:48:23 DubizzleHomePage  - Clicked on Used cars sub-menu
+16464 [main] INFO  06 Mar 2017 01:48:23 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+21616 [main] INFO  06 Mar 2017 01:48:28 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+22521 [main] INFO  06 Mar 2017 01:48:29 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+31717 [main] INFO  06 Mar 2017 01:48:38 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+31717 [main] INFO  06 Mar 2017 01:48:38 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1575000, 1490000, 1298000, 1125000, 1111111, 1100000, 1100000, 1100000, 1075000, 1065000, 1050000, 1050000, 1025000, 1025000, 1020000, 1015000]
+31718 [main] INFO  06 Mar 2017 01:48:38 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+31722 [main] INFO  06 Mar 2017 01:48:38 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+32435 [main] INFO  06 Mar 2017 01:48:39 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+32435 [main] INFO  06 Mar 2017 01:48:39 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+39815 [main] INFO  06 Mar 2017 01:48:46 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+43871 [main] INFO  06 Mar 2017 01:48:50 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+51861 [main] INFO  06 Mar 2017 01:48:58 JobOnlineMediaPage  - Extracted Dates from      UI: [Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Dec 11 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Jul 21 00:00:00 IST 2016, Sun Sep 20 00:00:00 IST 2015, Sun Nov 20 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016]
+51862 [main] INFO  06 Mar 2017 01:48:58 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Sep 20 00:00:00 IST 2015, Thu Jul 21 00:00:00 IST 2016, Sun Sep 25 00:00:00 IST 2016, Tue Sep 27 00:00:00 IST 2016, Thu Oct 06 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Oct 13 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 23 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Nov 20 00:00:00 IST 2016, Sun Dec 11 00:00:00 IST 2016, Sat Feb 04 00:00:00 IST 2017, Sat Feb 04 00:00:00 IST 2017, Sun Feb 05 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017]
+51863 [main] INFO  06 Mar 2017 01:48:58 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+51947 [main] INFO  06 Mar 2017 01:48:58 DubizzleUserAPITest  - Total No. of Rows: 6
+51950 [main] INFO  06 Mar 2017 01:48:58 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+56851 [main] INFO  06 Mar 2017 01:49:03 DubizzleUserAPITest  - [PASSED] Status Code: 200
+57524 [main] INFO  06 Mar 2017 01:49:04 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+57567 [main] INFO  06 Mar 2017 01:49:04 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+57569 [main] INFO  06 Mar 2017 01:49:04 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+58845 [main] INFO  06 Mar 2017 01:49:05 DubizzleUserAPITest  - [PASSED] Status Code: 404
+58853 [main] INFO  06 Mar 2017 01:49:05 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+60238 [main] INFO  06 Mar 2017 01:49:06 DubizzleUserAPITest  - [PASSED] Status Code: 404
+60515 [main] INFO  06 Mar 2017 01:49:07 DubizzleRepoAPITest  - Total No. of Rows: 6
+60517 [main] INFO  06 Mar 2017 01:49:07 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+62181 [main] INFO  06 Mar 2017 01:49:08 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+62867 [main] INFO  06 Mar 2017 01:49:09 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+62945 [main] INFO  06 Mar 2017 01:49:09 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+62948 [main] INFO  06 Mar 2017 01:49:09 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+64623 [main] INFO  06 Mar 2017 01:49:11 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+64629 [main] INFO  06 Mar 2017 01:49:11 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+65956 [main] INFO  06 Mar 2017 01:49:12 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+66187 [main] INFO  06 Mar 2017 01:49:12 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+66194 [main] INFO  06 Mar 2017 01:49:12 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+66196 [main] INFO  06 Mar 2017 01:49:12 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+67476 [main] INFO  06 Mar 2017 01:49:14 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+67700 [main] INFO  06 Mar 2017 01:49:14 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'name': ParsePy
+67704 [main] INFO  06 Mar 2017 01:49:14 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'language': Python
+67705 [main] INFO  06 Mar 2017 01:49:14 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+69083 [main] INFO  06 Mar 2017 01:49:15 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+69503 [main] INFO  06 Mar 2017 01:49:16 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'name': parse-server-npm
+69507 [main] INFO  06 Mar 2017 01:49:16 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'language': JavaScript
+853  [main] INFO  06 Mar 2017 01:54:06 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+8409 [main] INFO  06 Mar 2017 01:54:13 DubizzleUserAPITest  - Firefox driver invoked
+8410 [main] INFO  06 Mar 2017 01:54:13 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+8410 [main] INFO  06 Mar 2017 01:54:13 DubizzleUserAPITest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+19841 [main] INFO  06 Mar 2017 01:54:25 DubizzleUserAPITest  - @BeforeTest: Setup done
+19892 [main] INFO  06 Mar 2017 01:54:25 DubizzleUserAPITest  - Total No. of Rows: 6
+19909 [main] INFO  06 Mar 2017 01:54:25 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+23436 [main] INFO  06 Mar 2017 01:54:28 DubizzleUserAPITest  - [PASSED] Status Code: 200
+24064 [main] INFO  06 Mar 2017 01:54:29 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+24093 [main] INFO  06 Mar 2017 01:54:29 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+24095 [main] INFO  06 Mar 2017 01:54:29 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+25641 [main] INFO  06 Mar 2017 01:54:31 DubizzleUserAPITest  - [PASSED] Status Code: 404
+25646 [main] INFO  06 Mar 2017 01:54:31 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+27033 [main] INFO  06 Mar 2017 01:54:32 DubizzleUserAPITest  - [PASSED] Status Code: 404
+27061 [main] INFO  06 Mar 2017 01:54:32 DubizzleRepoAPITest  - Total No. of Rows: 6
+27063 [main] INFO  06 Mar 2017 01:54:32 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+28749 [main] INFO  06 Mar 2017 01:54:34 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+29019 [main] INFO  06 Mar 2017 01:54:34 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+29026 [main] INFO  06 Mar 2017 01:54:34 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+29026 [main] INFO  06 Mar 2017 01:54:34 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+30416 [main] INFO  06 Mar 2017 01:54:35 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+30417 [main] INFO  06 Mar 2017 01:54:35 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+32018 [main] INFO  06 Mar 2017 01:54:37 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+32296 [main] INFO  06 Mar 2017 01:54:37 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+32299 [main] INFO  06 Mar 2017 01:54:37 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+32303 [main] INFO  06 Mar 2017 01:54:37 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+940  [main] INFO  06 Mar 2017 01:56:20 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+7607 [main] INFO  06 Mar 2017 01:56:27 DubizzleUserAPITest  - Firefox driver invoked
+7607 [main] INFO  06 Mar 2017 01:56:27 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+7607 [main] INFO  06 Mar 2017 01:56:27 DubizzleUserAPITest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+20183 [main] INFO  06 Mar 2017 01:56:40 DubizzleUserAPITest  - @BeforeTest: Setup done
+20294 [main] INFO  06 Mar 2017 01:56:40 DubizzleUserAPITest  - Total No. of Rows: 6
+20303 [main] INFO  06 Mar 2017 01:56:40 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+24022 [main] INFO  06 Mar 2017 01:56:44 DubizzleRepoAPITest  - Total No. of Rows: 6
+24025 [main] INFO  06 Mar 2017 01:56:44 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+923  [main] INFO  06 Mar 2017 01:57:58 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+925  [main] INFO  06 Mar 2017 01:57:59 DubizzleUserAPITest  - WebService API testing URI - https://api.github.com
+925  [main] INFO  06 Mar 2017 01:57:59 DubizzleUserAPITest  - @BeforeTest: Setup done
+1010 [main] INFO  06 Mar 2017 01:57:59 DubizzleUserAPITest  - Total No. of Rows: 6
+1020 [main] INFO  06 Mar 2017 01:57:59 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+5015 [main] INFO  06 Mar 2017 01:58:03 DubizzleRepoAPITest  - Total No. of Rows: 6
+5020 [main] INFO  06 Mar 2017 01:58:03 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+879  [main] INFO  06 Mar 2017 02:00:21 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+881  [main] INFO  06 Mar 2017 02:00:21 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+881  [main] INFO  06 Mar 2017 02:00:21 DubizzleRepoAPITest  - @BeforeTest: Setup done
+882  [main] INFO  06 Mar 2017 02:00:21 DubizzleUserAPITest  - Starting setup to launch dubizzle USER API testing
+956  [main] INFO  06 Mar 2017 02:00:21 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+956  [main] INFO  06 Mar 2017 02:00:21 DubizzleUserAPITest  - WebService API testing URI - https://api.github.com
+956  [main] INFO  06 Mar 2017 02:00:21 DubizzleUserAPITest  - @BeforeTest: Setup done
+1004 [main] INFO  06 Mar 2017 02:00:21 DubizzleUserAPITest  - Total No. of Rows: 6
+1012 [main] INFO  06 Mar 2017 02:00:21 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+5365 [main] INFO  06 Mar 2017 02:00:26 DubizzleRepoAPITest  - Total No. of Rows: 6
+5367 [main] INFO  06 Mar 2017 02:00:26 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+1035 [main] INFO  06 Mar 2017 02:01:29 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1037 [main] INFO  06 Mar 2017 02:01:29 DubizzleRepoAPITest  - WebService API testing URI - https://api.github.com
+1038 [main] INFO  06 Mar 2017 02:01:29 DubizzleRepoAPITest  - @BeforeTest: Setup done
+1038 [main] INFO  06 Mar 2017 02:01:29 DubizzleUserAPITest  - Starting setup to launch dubizzle USER API testing
+1105 [main] INFO  06 Mar 2017 02:01:29 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+1106 [main] INFO  06 Mar 2017 02:01:29 DubizzleUserAPITest  - WebService API testing URI - https://api.github.com
+1106 [main] INFO  06 Mar 2017 02:01:29 DubizzleUserAPITest  - @BeforeTest: Setup done
+34374 [main] INFO  06 Mar 2017 02:02:02 DubizzleUserAPITest  - Total No. of Rows: 6
+69134 [main] INFO  06 Mar 2017 02:02:37 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+986  [main] INFO  06 Mar 2017 02:10:55 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+988  [main] INFO  06 Mar 2017 02:10:55 DubizzleUserAPITest  - WebService API testing URI - https://api.github.com
+988  [main] INFO  06 Mar 2017 02:10:55 DubizzleUserAPITest  - @BeforeTest: Setup done
+4875 [main] INFO  06 Mar 2017 02:10:59 DubizzleUserAPITest  - Total No. of Rows: 6
+16149 [main] INFO  06 Mar 2017 02:11:10 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+45640 [main] INFO  06 Mar 2017 02:11:40 DubizzleUserAPITest  - [PASSED] Status Code: 200
+47279 [main] INFO  06 Mar 2017 02:11:41 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+47394 [main] INFO  06 Mar 2017 02:11:41 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+47414 [main] INFO  06 Mar 2017 02:11:41 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+56924 [main] INFO  06 Mar 2017 02:11:51 DubizzleUserAPITest  - [PASSED] Status Code: 404
+56930 [main] INFO  06 Mar 2017 02:11:51 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+61072 [main] INFO  06 Mar 2017 02:11:55 DubizzleUserAPITest  - [PASSED] Status Code: 404
+68263 [main] INFO  06 Mar 2017 02:12:02 DubizzleRepoAPITest  - Total No. of Rows: 6
+74638 [main] INFO  06 Mar 2017 02:12:09 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+91225 [main] INFO  06 Mar 2017 02:12:25 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+96986 [main] INFO  06 Mar 2017 02:12:31 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+97174 [main] INFO  06 Mar 2017 02:12:31 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+97179 [main] INFO  06 Mar 2017 02:12:31 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+99150 [main] INFO  06 Mar 2017 02:12:33 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+99152 [main] INFO  06 Mar 2017 02:12:33 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+100780 [main] INFO  06 Mar 2017 02:12:35 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+101078 [main] INFO  06 Mar 2017 02:12:35 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+101118 [main] INFO  06 Mar 2017 02:12:35 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+101119 [main] INFO  06 Mar 2017 02:12:35 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+102565 [main] INFO  06 Mar 2017 02:12:37 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+102998 [main] INFO  06 Mar 2017 02:12:37 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'name': ParsePy
+103003 [main] INFO  06 Mar 2017 02:12:37 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'language': Python
+103004 [main] INFO  06 Mar 2017 02:12:37 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+107478 [main] INFO  06 Mar 2017 02:12:42 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+107708 [main] INFO  06 Mar 2017 02:12:42 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'name': parse-server-npm
+107713 [main] INFO  06 Mar 2017 02:12:42 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'language': JavaScript
+854  [main] INFO  06 Mar 2017 02:14:05 DubizzleUserAPITest  - WebService API testing URI - https://api.github.com
+855  [main] INFO  06 Mar 2017 02:14:05 DubizzleUserAPITest  - @BeforeTest: Setup done
+925  [main] INFO  06 Mar 2017 02:14:05 DubizzleUserAPITest  - Total No. of Rows: 6
+936  [main] INFO  06 Mar 2017 02:14:05 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle
+4949 [main] INFO  06 Mar 2017 02:14:09 DubizzleUserAPITest  - [PASSED] Status Code: 200
+5469 [main] INFO  06 Mar 2017 02:14:10 DubizzleUserAPITest  - [PASSED] 'login' key value matched dubizzle
+5527 [main] INFO  06 Mar 2017 02:14:10 DubizzleUserAPITest  - [PASSED] 'id' key value matched 155331
+5532 [main] INFO  06 Mar 2017 02:14:10 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzle1
+6870 [main] INFO  06 Mar 2017 02:14:11 DubizzleUserAPITest  - [PASSED] Status Code: 404
+6871 [main] INFO  06 Mar 2017 02:14:11 DubizzleUserAPITest  - Rest WebService API: https://api.github.com/users/dubizzleInvalid
+8422 [main] INFO  06 Mar 2017 02:14:13 DubizzleUserAPITest  - [PASSED] Status Code: 404
+8573 [main] INFO  06 Mar 2017 02:14:13 DubizzleRepoAPITest  - Total No. of Rows: 6
+8577 [main] INFO  06 Mar 2017 02:14:13 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+10361 [main] INFO  06 Mar 2017 02:14:15 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+10724 [main] INFO  06 Mar 2017 02:14:15 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'name': chef-haproxy
+10748 [main] INFO  06 Mar 2017 02:14:15 DubizzleRepoAPITest  - [PASSED] 'id': 6160393 'language': Ruby
+10752 [main] INFO  06 Mar 2017 02:14:15 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos1
+12577 [main] INFO  06 Mar 2017 02:14:17 DubizzleRepoAPITest  - [PASSED] Status Code: 404
+12579 [main] INFO  06 Mar 2017 02:14:17 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+14181 [main] INFO  06 Mar 2017 02:14:19 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+14509 [main] INFO  06 Mar 2017 02:14:19 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'name': django-filer
+14514 [main] INFO  06 Mar 2017 02:14:19 DubizzleRepoAPITest  - [PASSED] 'id': 11471217 'language': Python
+14533 [main] INFO  06 Mar 2017 02:14:19 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+16102 [main] INFO  06 Mar 2017 02:14:20 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+16423 [main] INFO  06 Mar 2017 02:14:21 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'name': ParsePy
+16427 [main] INFO  06 Mar 2017 02:14:21 DubizzleRepoAPITest  - [PASSED] 'id': 55369183 'language': Python
+16429 [main] INFO  06 Mar 2017 02:14:21 DubizzleRepoAPITest  - Rest WebService API: https://api.github.com/users/dubizzle/repos
+18280 [main] INFO  06 Mar 2017 02:14:23 DubizzleRepoAPITest  - [PASSED] Status Code: 200
+18293 [main] INFO  06 Mar 2017 02:14:23 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'name': parse-server-npm
+18297 [main] INFO  06 Mar 2017 02:14:23 DubizzleRepoAPITest  - [PASSED] 'id': 77030017 'language': JavaScript
+185  [main] INFO  07 Mar 2017 01:37:27 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+202  [main] INFO  07 Mar 2017 01:37:27 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+80   [main] INFO  07 Mar 2017 01:38:12 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+84   [main] INFO  07 Mar 2017 01:38:12 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+121  [main] INFO  07 Mar 2017 01:39:45 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+125  [main] INFO  07 Mar 2017 01:39:45 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+20483 [main] INFO  07 Mar 2017 01:40:06 AndroidTest  - Device configuration completed
+20531 [main] INFO  07 Mar 2017 01:40:06 AndroidTest  - Starting test case execution
+27850 [main] INFO  07 Mar 2017 01:40:13 MobileAction  - Clicked on Webelement
+29851 [main] INFO  07 Mar 2017 01:40:15 MobileAction  - Swipe Left
+32417 [main] INFO  07 Mar 2017 01:40:17 MobileAction  - Swipe Left
+35015 [main] INFO  07 Mar 2017 01:40:20 MobileAction  - Swipe Left
+37593 [main] INFO  07 Mar 2017 01:40:23 MobileAction  - Swipe Left
+40199 [main] INFO  07 Mar 2017 01:40:25 MobileAction  - Swipe Top
+42932 [main] INFO  07 Mar 2017 01:40:28 MobileAction  - Swipe Bottom
+116  [main] INFO  07 Mar 2017 01:42:45 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+121  [main] INFO  07 Mar 2017 01:42:45 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+156  [main] INFO  07 Mar 2017 01:43:07 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+163  [main] INFO  07 Mar 2017 01:43:07 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+21637 [main] INFO  07 Mar 2017 01:43:29 AndroidTest  - Device configuration completed
+21681 [main] INFO  07 Mar 2017 01:43:29 AndroidTest  - Starting test case execution
+28874 [main] INFO  07 Mar 2017 01:43:36 MobileAction  - Clicked on Webelement
+30876 [main] INFO  07 Mar 2017 01:43:38 MobileAction  - Swipe Left
+33326 [main] INFO  07 Mar 2017 01:43:40 MobileAction  - Swipe Left
+35926 [main] INFO  07 Mar 2017 01:43:43 MobileAction  - Swipe Left
+38493 [main] INFO  07 Mar 2017 01:43:45 MobileAction  - Swipe Left
+41559 [main] INFO  07 Mar 2017 01:43:48 MobileAction  - Clicked on Webelement
+46866 [main] INFO  07 Mar 2017 01:43:54 MobileAction  - Clicked on Webelement
+52254 [main] INFO  07 Mar 2017 01:43:59 MobileAction  - Clicked on Webelement
+55466 [main] INFO  07 Mar 2017 01:44:02 MobileAction  - Clicked on Webelement
+59777 [main] INFO  07 Mar 2017 01:44:07 MobileAction  - Clicked on Webelement
+62688 [main] INFO  07 Mar 2017 01:44:10 MobileAction  - Clicked on Webelement
+65455 [main] INFO  07 Mar 2017 01:44:12 MobileAction  - Clicked on Webelement
+115  [main] INFO  07 Mar 2017 01:45:51 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+120  [main] INFO  07 Mar 2017 01:45:51 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+19149 [main] INFO  07 Mar 2017 01:46:10 AndroidTest  - Device configuration completed
+19188 [main] INFO  07 Mar 2017 01:46:10 AndroidTest  - Starting test case execution
+28557 [main] INFO  07 Mar 2017 01:46:20 MobileAction  - Clicked on Webelement By.name: Motors
+30558 [main] INFO  07 Mar 2017 01:46:22 MobileAction  - Swipe Left
+32756 [main] INFO  07 Mar 2017 01:46:24 MobileAction  - Swipe Left
+34973 [main] INFO  07 Mar 2017 01:46:26 MobileAction  - Swipe Left
+37193 [main] INFO  07 Mar 2017 01:46:28 MobileAction  - Swipe Left
+42890 [main] INFO  07 Mar 2017 01:46:34 MobileAction  - Clicked on Webelement By.name: Airlines & Aviation
+114  [main] INFO  07 Mar 2017 02:08:07 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+119  [main] INFO  07 Mar 2017 02:08:07 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+88   [main] INFO  07 Mar 2017 02:09:04 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+90   [main] INFO  07 Mar 2017 02:09:04 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+156  [main] INFO  07 Mar 2017 02:09:56 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+161  [main] INFO  07 Mar 2017 02:09:56 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+25489 [main] INFO  07 Mar 2017 02:10:21 AndroidTest  - Device configuration completed
+25531 [main] INFO  07 Mar 2017 02:10:21 AndroidTest  - Starting test case execution
+32179 [main] INFO  07 Mar 2017 02:10:28 MobileAction  - Clicked on Webelement By.name: Motors
+34181 [main] INFO  07 Mar 2017 02:10:30 MobileAction  - Swipe Left
+36774 [main] INFO  07 Mar 2017 02:10:32 MobileAction  - Swipe Left
+39227 [main] INFO  07 Mar 2017 02:10:35 MobileAction  - Swipe Left
+41753 [main] INFO  07 Mar 2017 02:10:37 MobileAction  - Swipe Left
+99   [main] INFO  07 Mar 2017 02:13:13 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+102  [main] INFO  07 Mar 2017 02:13:13 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+18778 [main] INFO  07 Mar 2017 02:13:32 AndroidTest  - Device configuration completed
+18869 [main] INFO  07 Mar 2017 02:13:32 AndroidTest  - Starting test case execution
+25437 [main] INFO  07 Mar 2017 02:13:38 MobileAction  - Clicked on Webelement By.name: Motors
+27438 [main] INFO  07 Mar 2017 02:13:40 MobileAction  - Swipe Left
+29885 [main] INFO  07 Mar 2017 02:13:43 MobileAction  - Swipe Left
+32383 [main] INFO  07 Mar 2017 02:13:45 MobileAction  - Swipe Left
+34813 [main] INFO  07 Mar 2017 02:13:48 MobileAction  - Swipe Left
+39029 [main] INFO  07 Mar 2017 02:13:52 MobileAction  - Clicked on Webelement By.name: Airlines & Aviation
+42696 [main] INFO  07 Mar 2017 02:13:56 MobileAction  - Clicked on Webelement By.id: listingActions_lytChooseFilters
+47900 [main] INFO  07 Mar 2017 02:14:01 MobileAction  - Clicked on Webelement By.id: search_btnClose
+50470 [main] INFO  07 Mar 2017 02:14:03 MobileAction  - Clicked on Webelement By.id: listingActions_lytChooseView
+54265 [main] INFO  07 Mar 2017 02:14:07 MobileAction  - Clicked on Webelement By.id: alert_viewTypeMap
+56872 [main] INFO  07 Mar 2017 02:14:10 MobileAction  - Clicked on Webelement By.id: listing_actions_iv_choose_view
+59481 [main] INFO  07 Mar 2017 02:14:12 MobileAction  - Clicked on Webelement By.id: alert_viewTypeList
+1920 [main] INFO  07 Mar 2017 23:34:24 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+19186 [main] INFO  07 Mar 2017 23:34:41 DubizzleSearchResultTest  - Firefox driver invoked
+19187 [main] INFO  07 Mar 2017 23:34:41 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+19188 [main] INFO  07 Mar 2017 23:34:41 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+75668 [main] INFO  07 Mar 2017 23:35:37 DubizzleSearchResultTest  - @BeforeTest: Setup done
+75735 [main] INFO  07 Mar 2017 23:35:37 DubizzleSearchResultTest  - Total No of Test Cases: 3
+75753 [main] INFO  07 Mar 2017 23:35:37 DubizzleHomePage  - Perform click on Used cars sub-menu
+76451 [main] INFO  07 Mar 2017 23:35:38 DubizzleHomePage  - Clicked on Used cars sub-menu
+76455 [main] INFO  07 Mar 2017 23:35:38 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+99638 [main] INFO  07 Mar 2017 23:36:01 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+101002 [main] INFO  07 Mar 2017 23:36:03 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+146846 [main] INFO  07 Mar 2017 23:36:49 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1580000, 1575000, 1490000, 1298000, 1250000, 1230000, 1150000, 1125000, 1111111, 1100000, 1100000, 1100000, 1090000, 1075000, 1065000, 1050000]
+146847 [main] INFO  07 Mar 2017 23:36:49 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1580000, 1575000, 1490000, 1298000, 1250000, 1230000, 1150000, 1125000, 1111111, 1100000, 1100000, 1100000, 1090000, 1075000, 1065000, 1050000]
+146848 [main] INFO  07 Mar 2017 23:36:49 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+146850 [main] INFO  07 Mar 2017 23:36:49 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+147885 [main] INFO  07 Mar 2017 23:36:50 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+147885 [main] INFO  07 Mar 2017 23:36:50 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+176308 [main] INFO  07 Mar 2017 23:37:18 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+187860 [main] INFO  07 Mar 2017 23:37:30 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+210551 [main] INFO  07 Mar 2017 23:37:52 JobOnlineMediaPage  - Extracted Dates from      UI: [Tue Mar 07 00:00:00 IST 2017, Mon Mar 06 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Dec 11 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Thu Jul 21 00:00:00 IST 2016, Sun Sep 20 00:00:00 IST 2015, Mon Jan 30 00:00:00 IST 2017, Thu Jan 26 00:00:00 IST 2017, Sun Nov 20 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016]
+210553 [main] INFO  07 Mar 2017 23:37:52 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Sep 20 00:00:00 IST 2015, Thu Jul 21 00:00:00 IST 2016, Tue Oct 11 00:00:00 IST 2016, Sun Oct 16 00:00:00 IST 2016, Sat Oct 22 00:00:00 IST 2016, Wed Oct 26 00:00:00 IST 2016, Sun Nov 20 00:00:00 IST 2016, Sun Dec 11 00:00:00 IST 2016, Thu Jan 26 00:00:00 IST 2017, Mon Jan 30 00:00:00 IST 2017, Mon Feb 06 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017, Mon Mar 06 00:00:00 IST 2017, Tue Mar 07 00:00:00 IST 2017]
+210553 [main] INFO  07 Mar 2017 23:37:52 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+1678 [main] INFO  07 Mar 2017 23:47:50 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+16709 [main] INFO  07 Mar 2017 23:48:05 DubizzleSearchResultTest  - Firefox driver invoked
+16709 [main] INFO  07 Mar 2017 23:48:05 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+16710 [main] INFO  07 Mar 2017 23:48:05 DubizzleSearchResultTest  - Driver instantiated. Opening WebPage: https://dubai.dubizzle.com/
+104586 [main] INFO  07 Mar 2017 23:49:33 DubizzleSearchResultTest  - @BeforeTest: Setup done
+104643 [main] INFO  07 Mar 2017 23:49:33 DubizzleSearchResultTest  - Total No of Test Cases: 3
+104656 [main] INFO  07 Mar 2017 23:49:33 DubizzleHomePage  - Perform click on Used cars sub-menu
+105250 [main] INFO  07 Mar 2017 23:49:33 DubizzleHomePage  - Clicked on Used cars sub-menu
+105254 [main] INFO  07 Mar 2017 23:49:33 DubizzleSearchResultTest  - [PASSED] CLicked on 'Motors-Used Cars for sale' sub-menu
+123934 [main] INFO  07 Mar 2017 23:49:52 DubizzleSearchResultTest  - [PASSED] 'Motors-Used Cars for sale' page is displayed
+125919 [main] INFO  07 Mar 2017 23:49:54 UsedCarsPage  - Sort By dropdown list selected by Price Highest to Lowest
+149781 [main] INFO  07 Mar 2017 23:50:18 UsedCarsPage  - Extracted Price from      UI: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1580000, 1575000, 1490000, 1298000, 1250000, 1230000, 1150000, 1125000, 1111111, 1100000, 1100000, 1090000, 1075000, 1065000, 1050000, 1025000]
+149781 [main] INFO  07 Mar 2017 23:50:18 UsedCarsPage  - Expected Price after sorting: [3600000, 2700000, 2690000, 2375000, 2340000, 1840000, 1750000, 1690000, 1580000, 1580000, 1575000, 1490000, 1298000, 1250000, 1230000, 1150000, 1125000, 1111111, 1100000, 1100000, 1090000, 1075000, 1065000, 1050000, 1025000]
+149782 [main] INFO  07 Mar 2017 23:50:18 DubizzleSearchResultTest  - [PASSED] Used cars result lists are correctly sorted by Price Highest to Lowest
+149784 [main] INFO  07 Mar 2017 23:50:18 DubizzleHomePage  - Perform click on Job-Online Media sub-menu
+150757 [main] INFO  07 Mar 2017 23:50:19 DubizzleHomePage  - Clicked on Job-Online Media sub-menu
+150757 [main] INFO  07 Mar 2017 23:50:19 DubizzleSearchResultTest  - [PASSED] CLicked on 'Jobs-Online Media' sub-menu
+162918 [main] INFO  07 Mar 2017 23:50:31 DubizzleSearchResultTest  - [PASSED] 'Jobs-Online Media' page is displayed
+168919 [main] INFO  07 Mar 2017 23:50:37 JobOnlineMediaPage  - Sort By dropdown list selected by Oldest to Newest
+182236 [main] INFO  07 Mar 2017 23:50:50 JobOnlineMediaPage  - Extracted Dates from      UI: [Tue Mar 07 00:00:00 IST 2017, Mon Mar 06 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 12 00:00:00 IST 2017]
+182237 [main] INFO  07 Mar 2017 23:50:50 JobOnlineMediaPage  - Expected Dates after sorting: [Sun Feb 12 00:00:00 IST 2017, Mon Feb 13 00:00:00 IST 2017, Sun Feb 26 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Tue Feb 28 00:00:00 IST 2017, Wed Mar 01 00:00:00 IST 2017, Mon Mar 06 00:00:00 IST 2017, Tue Mar 07 00:00:00 IST 2017]
+182238 [main] INFO  07 Mar 2017 23:50:50 DubizzleSearchResultTest  - [PASSED] Jobs-Online Media result lists are correctly sorted by Oldest to Newest
+114  [main] INFO  08 Mar 2017 00:11:24 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+117  [main] INFO  08 Mar 2017 00:11:24 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+122  [main] INFO  08 Mar 2017 00:12:15 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+126  [main] INFO  08 Mar 2017 00:12:15 PropertyFileRead  - Property File - D:\Workspace\dubizzle\src\test\com\dubizzle\config\properties\project.properties
+43823 [main] INFO  08 Mar 2017 00:12:59 AndroidTest  - Device configuration completed
+43865 [main] INFO  08 Mar 2017 00:12:59 AndroidTest  - Starting test case execution

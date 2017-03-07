@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <suite name="dubizzle classified" verbose="1" parallel="classes"> -->
+<suite name="dubizzle classified" verbose="1" >	
+	<test name="dubizzle classified firefox Test">
+		<!-- For Parallel execution -->
+		<!-- <parameter name="browser" value="Firefox" /> -->
+		<!-- <groups>
+			<run>
+				<include name="testng" />
+			</run>
+		</groups> -->
+		<classes>
+			<class name="test.com.dubizzle.aut.testcase.DubizzleSearchResultTest" />
+		</classes>
+	</test>
+
+	<!-- For Parallel execution -->
+	<!-- <test name="dubizzle classified chrome Test" >
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="test.com.dubizzle.aut.testcase.DubizzleSearchResultTest" />
+		</classes>
+	</test> -->
+</suite>

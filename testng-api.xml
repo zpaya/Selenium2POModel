@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="dubizzle API" verbose="1">
+	
+	<test name="Dubizzle API Test">
+		<!-- <parameter name="url" value="URLNAME_OR_LINK" /> -->
+		<!-- <groups>
+			<run>
+				<include name="testng" />
+			</run>
+		</groups> -->
+		<classes>
+			<class name="test.com.dubizzle.aut.testcase.DubizzleUserAPITest" />
+			<class name="test.com.dubizzle.aut.testcase.DubizzleRepoAPITest" />
+		</classes>
+	</test>
+</suite>

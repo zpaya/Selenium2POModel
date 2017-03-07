@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [dubizzle classified]">
+  <test name="dubizzle classified firefox Test(failed)">
+    <classes>
+      <class name="test.com.dubizzle.aut.testcase.DubizzleSearchResultTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setUp"/>
+          <include name="searchResultSorting"/>
+        </methods>
+      </class> <!-- test.com.dubizzle.aut.testcase.DubizzleSearchResultTest -->
+    </classes>
+  </test> <!-- dubizzle classified firefox Test(failed) -->
+</suite> <!-- Failed suite [dubizzle classified] -->

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="dubizzle API" duration-ms="17628" started-at="2017-03-05T20:18:58Z" finished-at="2017-03-05T20:19:16Z">
+    <groups>
+      <group name="">
+        <method signature="DubizzleRepoAPITest.repoAPIResponseTest()[pri:0, instance:test.com.dubizzle.aut.testcase.DubizzleRepoAPITest@59f99ea]" name="repoAPIResponseTest" class="test.com.dubizzle.aut.testcase.DubizzleRepoAPITest"/>
+        <method signature="DubizzleUserAPITest.userAPIResponseTest()[pri:0, instance:test.com.dubizzle.aut.testcase.DubizzleUserAPITest@27efef64]" name="userAPIResponseTest" class="test.com.dubizzle.aut.testcase.DubizzleUserAPITest"/>
+      </group> <!--  -->
+    </groups>
+    <test name="Dubizzle API Test" duration-ms="17628" started-at="2017-03-05T20:18:58Z" finished-at="2017-03-05T20:19:16Z">
+      <class name="test.com.dubizzle.aut.testcase.DubizzleRepoAPITest">
+        <test-method status="PASS" signature="repoAPIResponseTest()[pri:0, instance:test.com.dubizzle.aut.testcase.DubizzleRepoAPITest@59f99ea]" name="repoAPIResponseTest" duration-ms="9264" started-at="2017-03-06T01:49:06Z" finished-at="2017-03-06T01:49:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repoAPIResponseTest -->
+      </class> <!-- test.com.dubizzle.aut.testcase.DubizzleRepoAPITest -->
+      <class name="test.com.dubizzle.aut.testcase.DubizzleUserAPITest">
+        <test-method status="PASS" signature="userAPIResponseTest()[pri:0, instance:test.com.dubizzle.aut.testcase.DubizzleUserAPITest@27efef64]" name="userAPIResponseTest" duration-ms="8362" started-at="2017-03-06T01:48:58Z" finished-at="2017-03-06T01:49:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAPIResponseTest -->
+      </class> <!-- test.com.dubizzle.aut.testcase.DubizzleUserAPITest -->
+    </test> <!-- Dubizzle API Test -->
+  </suite> <!-- dubizzle API -->
+  <suite name="dubizzle classified" duration-ms="51794" started-at="2017-03-05T20:18:06Z" finished-at="2017-03-05T20:18:58Z">
+    <groups>
+      <group name="">
+        <method signature="DubizzleSearchResultTest.searchResultSorting()[pri:0, instance:test.com.dubizzle.aut.testcase.DubizzleSearchResultTest@2a5ca609]" name="searchResultSorting" class="test.com.dubizzle.aut.testcase.DubizzleSearchResultTest"/>
+      </group> <!--  -->
+    </groups>
+    <test name="dubizzle classified firefox Test" duration-ms="51794" started-at="2017-03-05T20:18:06Z" finished-at="2017-03-05T20:18:58Z">
+      <class name="test.com.dubizzle.aut.testcase.DubizzleSearchResultTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.com.dubizzle.aut.testcase.DubizzleSearchResultTest@2a5ca609]" name="setUp" is-config="true" duration-ms="16104" started-at="2017-03-06T01:48:06Z" finished-at="2017-03-06T01:48:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchResultSorting()[pri:0, instance:test.com.dubizzle.aut.testcase.DubizzleSearchResultTest@2a5ca609]" name="searchResultSorting" duration-ms="35678" started-at="2017-03-06T01:48:22Z" finished-at="2017-03-06T01:48:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchResultSorting -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.com.dubizzle.aut.testcase.DubizzleSearchResultTest@2a5ca609]" name="teardown" is-config="true" duration-ms="0" started-at="2017-03-06T01:48:58Z" finished-at="2017-03-06T01:48:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.com.dubizzle.aut.testcase.DubizzleSearchResultTest -->
+    </test> <!-- dubizzle classified firefox Test -->
+  </suite> <!-- dubizzle classified -->
+</testng-results>
